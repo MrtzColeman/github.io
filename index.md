@@ -2,3 +2,4 @@
 ![the great wave](the%20great%20wave.jpg)
 
 <mrtzcoleman.github.io/bio.md>
+<mrtzcoleman.github.io/topic.md>
